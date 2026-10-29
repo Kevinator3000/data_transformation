@@ -1,0 +1,50 @@
+# Referenz für Layout-Profile – NICHT anwenden, nur nachschlagen.
+# Dateiname = Profil-ID (Standard: Layout-Signatur aus dem Manifest, z. B. L6535abb7.yaml)
+
+id: L00000000
+typ: liste                      # liste = ein Code je Zeile | matrix = Kopfzeile sind Obercodes, darunter Untercodes
+beschreibung: >                 # Pflicht: in 2–4 Sätzen, wie das Blatt aufgebaut ist und was unklar ist
+  …
+nav_tabelle: null               # optional; sonst aus dem Manifest (bevorzugt)
+
+# --- nur typ: liste -------------------------------------------------------
+kopfzeile: 1
+datenzeilen: {von: 2, bis: null}        # bis: null = bis zur letzten belegten Zeile
+spalten:
+  code: A
+  beschreibung: B                       # optional
+  bewertung: [G]                        # Spalten mit einer Aussage zum Status (wörtlich übernommen)
+  nutzung: {C: "Service", D: "Logistik"}  # optional: ja/nein-Spalten je Bereich → Hinweise bei Widerspruch
+
+# --- nur typ: matrix ------------------------------------------------------
+# kopfzeile: 1
+# spalten_bereich: {von: A, bis: Y}     # Kopfzelle = übergeordneter Code, Zellen darunter = Codes
+
+# --- Status ---------------------------------------------------------------
+status_regeln:                          # erste passende Regel gewinnt; Vergleich ohne Groß-/Kleinschreibung
+  - {wert: "Behalten", status: behalten}
+  - {wert: "Löschen", status: verwerfen}
+  - {wert: "ja", status: behalten, annahme: "Begründung der Lesart – erzeugt status_quelle=regel_mit_annahme"}
+  - {regex: "^neu:", status: umbenennen}
+  - {enthaelt: "zusammen", status: zusammenfuehren}
+  # gültige Status: behalten | umbenennen | zusammenfuehren | verwerfen | unklar
+
+farben:                                 # Füllfarbe der Code-Zelle, Hex aus der Vorschau-Legende
+  "#B4E5A2": {bedeutung: "grün laut Legende in Zeile 1", status: behalten, sicherheit: explizit}
+  "#F2F2F2": {bedeutung: "hellgrau – unbestätigt"}     # ohne status → bleibt unklar
+  # Farbe ist Statusquelle nur, wenn keine Textbewertung existiert. Widerspricht sie dem
+  # Text, entsteht der Hinweis farbe_widerspricht_bewertung.
+
+# --- Notizen, die nicht zur Zeile gehören ----------------------------------
+lose_notizen: [F]                       # Zuordnung über das Kürzel am Textanfang ("CRAK – raus")
+notiz_regeln:
+  - {enthaelt: "raus", status: verwerfen}
+  - {enthaelt: "Frage", hinweis: notiz_offene_frage}
+notiz_zuordnung:                        # wenn das Kürzel nicht passt: manuell, IMMER mit Begründung + Frage
+  F9: {code: RZFM, begruendung: "…"}
+
+# --- Zellen, die bewusst nicht ausgewertet werden ---------------------------
+ignorieren:
+  - {zellen: "H1", grund: "Bearbeitungsvermerk 'erledigt KW12', kein Code-Bezug"}
+  - {zellen: ["Spalte:K", "Zeile:120"], grund: "Summenzeile / Hilfsspalte"}
+  - {zellen: "B2:D4", grund: "Titelblock"}

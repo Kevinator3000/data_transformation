@@ -1,0 +1,21 @@
+﻿nav_tabelle;code;status_gesamt;beschreibungen;status_je_quelle;uebergeordnete_codes;fachbereiche;hinweise;verwendet_in;in_gebuchten_daten;nav_beschreibung;nav_anzahl_gebucht;nav_letzte_verwendung;quellen
+Abwartengrund;AB;behalten;AUSBUCHEN;f918c7f6e7-1:A2=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A2
+Abwartengrund;CR;behalten;Creditreform;f918c7f6e7-1:A3=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A3
+Abwartengrund;CRAK;verwerfen;Andere Akte;f918c7f6e7-1:A4=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A4
+Abwartengrund;DZ;verwerfen;Doppelzahlung;f918c7f6e7-1:A5=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A5
+Abwartengrund;GH;verwerfen;Guthaben/Rechnungen Altlasten;f918c7f6e7-1:A6=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A6
+Abwartengrund;INSO;behalten;Insolvenz;f918c7f6e7-1:A7=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A7
+Abwartengrund;IR;verwerfen;Irrläufer;f918c7f6e7-1:A8=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A8
+Abwartengrund;KL;behalten;in Klärung;f918c7f6e7-1:A9=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A9
+Abwartengrund;KL-DK;behalten;in Klärung Team DK;f918c7f6e7-1:A11=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A11
+Abwartengrund;KLC;behalten;in Klärung Contract;f918c7f6e7-1:A10=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A10
+Abwartengrund;KLKAM;behalten;in Klärung KAM Team;f918c7f6e7-1:A12=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A12
+Abwartengrund;KLP;behalten;in Klärung Sol.Center/Produkte;f918c7f6e7-1:A13=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A13
+Abwartengrund;KLR;behalten;in Klärung Recht;f918c7f6e7-1:A14=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A14
+Abwartengrund;KLT;behalten;in Klärung Sol.Center/Technik;f918c7f6e7-1:A15=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A15
+Abwartengrund;NM;verwerfen;nicht mahnen;f918c7f6e7-1:A16=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A16
+Abwartengrund;RA;verwerfen;Ra Hellmann;f918c7f6e7-1:A17=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A17
+Abwartengrund;RLS;behalten;Rücklastschrift;f918c7f6e7-1:A18=behalten;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A18
+Abwartengrund;RZFM;verwerfen;Ratenzahlung/Überwachung man.;f918c7f6e7-1:A19=verwerfen;;;notiz_manuell_zugeordnet;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A19
+Abwartengrund;ZV;verwerfen;Zwangsvollstreckung bei CR Brö;f918c7f6e7-1:A21=verwerfen;;;;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A21
+Abwartengrund;ÜW;behalten;Überweisung;f918c7f6e7-1:A20=behalten;;;notiz_offene_frage;;unbekannt;;;;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A20

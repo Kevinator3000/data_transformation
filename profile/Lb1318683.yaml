@@ -1,0 +1,17 @@
+# Profil für Blatt "Reklamationsgründe" (Excel_zur_Bereinigung.xlsx)
+id: Lb1318683
+typ: matrix
+beschreibung: >
+  Kopfzeile = Hauptreklamationsgründe (genau die 25 Codes, die im Blatt
+  "Hauptreklamationsgründe" auf Behalten stehen). Darunter je Spalte die zugeordneten
+  Reklamationsgründe (n:m – derselbe Code kommt unter mehreren Obercodes vor).
+  Keine Beschreibungen, keine Legende. Zwei Füllfarben: grün (#B4E5A2, Mehrheit) und
+  hellgrau (#F2F2F2, 12 Zellen). Bedeutung nicht dokumentiert → Status bleibt unklar.
+  Hypothese (nicht bestätigt): grün = behalten, grau = verwerfen.
+kopfzeile: 1
+spalten_bereich: {von: A, bis: Y}
+nav_tabelle: null
+farben:
+  "#B4E5A2": {bedeutung: "grün – Bedeutung unbestätigt"}
+  "#F2F2F2": {bedeutung: "hellgrau – Bedeutung unbestätigt"}
+ignorieren: []

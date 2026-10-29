@@ -1,0 +1,24 @@
+# Profil für Blatt "Abwartengründe" (Abwartengründe_Liste-bearbeitet.xlsx)
+id: L82b87279
+typ: liste
+beschreibung: >
+  Ein Code je Zeile, Spalte C "relevant ja / nein". Spalte F ist KEINE Zeilenspalte,
+  sondern eine lose Liste von Anmerkungen, die sich über das Kürzel am Textanfang auf
+  Codes beziehen (F3 "CRAK – raus" steht neben CR, meint aber CRAK).
+kopfzeile: 1
+datenzeilen: {von: 2}
+spalten:
+  code: A
+  beschreibung: B
+  bewertung: [C]
+status_regeln:
+  - {wert: "ja", status: behalten, annahme: "'relevant = ja' wird als 'behalten' gelesen"}
+  - {wert: "nein", status: verwerfen, annahme: "'relevant = nein' wird als 'verwerfen' gelesen; gestützt durch die 'raus'-Notizen in Spalte F"}
+lose_notizen: [F]
+notiz_regeln:
+  - {enthaelt: "raus", status: verwerfen}
+  - {enthaelt: "Frage", hinweis: notiz_offene_frage}
+notiz_zuordnung:
+  F9: {code: RZFM, begruendung: "Notiz nennt 'RZVM – Ratenzahlung'; RZVM existiert nicht, RZFM = 'Ratenzahlung/Überwachung man.' – Tippfehler vermutet, Bestätigung über offene Frage"}
+farben: {}
+ignorieren: []

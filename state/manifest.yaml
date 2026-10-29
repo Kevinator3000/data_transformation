@@ -1,0 +1,73 @@
+dateien:
+  f918c7f6e7:
+    pfade:
+    - Abwartengründe_Liste-bearbeitet.xlsx
+    sha256: bbbcdc82995576946e2485c01b18e379a30e4e4131e83910e029a6b25aa47352
+    format: .xlsx
+    fachbereich: null
+    notiz: null
+    blaetter:
+    - blatt_id: f918c7f6e7-1
+      name: Abwartengründe
+      meta:
+        zellen: 72
+        zeilen: 21
+        sichtbarkeit: visible
+        versteckte_spalten: null
+        versteckte_zeilen: null
+        verbundene_bereiche: null
+      signatur: L82b87279
+      inhalt_hash: 214ec84390e4b222
+      profil: L82b87279
+      nav_tabelle: Abwartengrund
+      nav_tabelle_quelle: vorschlag_agent – aus Blattname abgeleitet, NAV-Tabellen-ID bestätigen
+      fachbereich: null
+      notiz: null
+  0ac7c4e385:
+    pfade:
+    - Excel_zur_Bereinigung.xlsx
+    sha256: 9b0cadea88e617e3e2d5a64829b0a748dfdf5bdfec53bc13df7154d06e66654d
+    format: .xlsx
+    fachbereich: null
+    notiz: null
+    blaetter:
+    - blatt_id: 0ac7c4e385-1
+      name: Hauptreklamationsgründe
+      meta:
+        zellen: 802
+        zeilen: 115
+        sichtbarkeit: visible
+        versteckte_spalten: null
+        versteckte_zeilen: null
+        verbundene_bereiche: null
+      signatur: L6535abb7
+      inhalt_hash: 3266880d14e1d8cf
+      profil: L6535abb7
+      nav_tabelle: Hauptreklamationsgrund
+      nav_tabelle_quelle: vorschlag_agent – aus Blattname abgeleitet, NAV-Tabellen-ID bestätigen
+      fachbereich: null
+      notiz: null
+    - blatt_id: 0ac7c4e385-2
+      name: Reklamationsgründe
+      meta:
+        zellen: 133
+        zeilen: 36
+        sichtbarkeit: visible
+        versteckte_spalten: null
+        versteckte_zeilen: null
+        verbundene_bereiche: null
+      signatur: Lb1318683
+      inhalt_hash: 97bd2f1145c990c2
+      profil: Lb1318683
+      nav_tabelle: Reklamationsgrund
+      nav_tabelle_quelle: vorschlag_agent – aus Blattname abgeleitet, NAV-Tabellen-ID bestätigen
+      fachbereich: null
+      notiz: null
+  fa18bed6e5:
+    pfade:
+    - Excel_zur_Bereinigung__1_.xlsx
+    sha256: 9b0cadea88e617e3e2d5a64829b0a748dfdf5bdfec53bc13df7154d06e66654d
+    format: .xlsx
+    duplikat_von: 0ac7c4e385
+    notiz: null
+stand: 2026-10-29 14:18

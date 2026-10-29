@@ -1,0 +1,72 @@
+{"zelle": "A1", "zeile": 1, "spalte": "A", "wert": "Abwartengrund Code", "typ": "text", "fuellung": "#C0C0C0", "fett": true}
+{"zelle": "B1", "zeile": 1, "spalte": "B", "wert": "Beschreibung", "typ": "text", "fuellung": "#C0C0C0", "fett": true}
+{"zelle": "C1", "zeile": 1, "spalte": "C", "wert": "relevant ja / nein", "typ": "text"}
+{"zelle": "A2", "zeile": 2, "spalte": "A", "wert": "AB", "typ": "text"}
+{"zelle": "B2", "zeile": 2, "spalte": "B", "wert": "AUSBUCHEN", "typ": "text"}
+{"zelle": "C2", "zeile": 2, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A3", "zeile": 3, "spalte": "A", "wert": "CR", "typ": "text"}
+{"zelle": "B3", "zeile": 3, "spalte": "B", "wert": "Creditreform", "typ": "text"}
+{"zelle": "C3", "zeile": 3, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "F3", "zeile": 3, "spalte": "F", "wert": "CRAK – raus", "typ": "text"}
+{"zelle": "A4", "zeile": 4, "spalte": "A", "wert": "CRAK", "typ": "text"}
+{"zelle": "B4", "zeile": 4, "spalte": "B", "wert": "Andere Akte ", "typ": "text"}
+{"zelle": "C4", "zeile": 4, "spalte": "C", "wert": "nein", "typ": "text"}
+{"zelle": "F4", "zeile": 4, "spalte": "F", "wert": "IR – Irrläufer – raus", "typ": "text"}
+{"zelle": "A5", "zeile": 5, "spalte": "A", "wert": "DZ", "typ": "text"}
+{"zelle": "B5", "zeile": 5, "spalte": "B", "wert": "Doppelzahlung", "typ": "text"}
+{"zelle": "C5", "zeile": 5, "spalte": "C", "wert": "nein", "typ": "text"}
+{"zelle": "F5", "zeile": 5, "spalte": "F", "wert": "GH – Guthaben – raus", "typ": "text"}
+{"zelle": "A6", "zeile": 6, "spalte": "A", "wert": "GH", "typ": "text"}
+{"zelle": "B6", "zeile": 6, "spalte": "B", "wert": "Guthaben/Rechnungen Altlasten", "typ": "text"}
+{"zelle": "C6", "zeile": 6, "spalte": "C", "wert": "nein", "typ": "text"}
+{"zelle": "F6", "zeile": 6, "spalte": "F", "wert": "DZ – Doppelzahlung raus", "typ": "text"}
+{"zelle": "A7", "zeile": 7, "spalte": "A", "wert": "INSO", "typ": "text"}
+{"zelle": "B7", "zeile": 7, "spalte": "B", "wert": "Insolvenz", "typ": "text"}
+{"zelle": "C7", "zeile": 7, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "F7", "zeile": 7, "spalte": "F", "wert": "RA – Rechtsanwalt raus", "typ": "text"}
+{"zelle": "A8", "zeile": 8, "spalte": "A", "wert": "IR", "typ": "text"}
+{"zelle": "B8", "zeile": 8, "spalte": "B", "wert": "Irrläufer", "typ": "text"}
+{"zelle": "C8", "zeile": 8, "spalte": "C", "wert": "nein", "typ": "text"}
+{"zelle": "F8", "zeile": 8, "spalte": "F", "wert": "NM – nicht mahnen raus", "typ": "text"}
+{"zelle": "A9", "zeile": 9, "spalte": "A", "wert": "KL", "typ": "text"}
+{"zelle": "B9", "zeile": 9, "spalte": "B", "wert": "in Klärung", "typ": "text"}
+{"zelle": "C9", "zeile": 9, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "F9", "zeile": 9, "spalte": "F", "wert": "RZVM – Ratenzahlung raus", "typ": "text"}
+{"zelle": "A10", "zeile": 10, "spalte": "A", "wert": "KLC", "typ": "text"}
+{"zelle": "B10", "zeile": 10, "spalte": "B", "wert": "in Klärung Contract", "typ": "text"}
+{"zelle": "C10", "zeile": 10, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "F10", "zeile": 10, "spalte": "F", "wert": "ÜW – Frage bei Fibu", "typ": "text"}
+{"zelle": "A11", "zeile": 11, "spalte": "A", "wert": "KL-DK", "typ": "text"}
+{"zelle": "B11", "zeile": 11, "spalte": "B", "wert": "in Klärung Team DK", "typ": "text"}
+{"zelle": "C11", "zeile": 11, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "F11", "zeile": 11, "spalte": "F", "wert": "ZV – Zwangsvollstreckung bei CR raus", "typ": "text"}
+{"zelle": "A12", "zeile": 12, "spalte": "A", "wert": "KLKAM", "typ": "text"}
+{"zelle": "B12", "zeile": 12, "spalte": "B", "wert": "in Klärung KAM Team", "typ": "text"}
+{"zelle": "C12", "zeile": 12, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A13", "zeile": 13, "spalte": "A", "wert": "KLP", "typ": "text"}
+{"zelle": "B13", "zeile": 13, "spalte": "B", "wert": "in Klärung Sol.Center/Produkte", "typ": "text"}
+{"zelle": "C13", "zeile": 13, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A14", "zeile": 14, "spalte": "A", "wert": "KLR", "typ": "text"}
+{"zelle": "B14", "zeile": 14, "spalte": "B", "wert": "in Klärung Recht", "typ": "text"}
+{"zelle": "C14", "zeile": 14, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A15", "zeile": 15, "spalte": "A", "wert": "KLT", "typ": "text"}
+{"zelle": "B15", "zeile": 15, "spalte": "B", "wert": "in Klärung Sol.Center/Technik", "typ": "text"}
+{"zelle": "C15", "zeile": 15, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A16", "zeile": 16, "spalte": "A", "wert": "NM", "typ": "text"}
+{"zelle": "B16", "zeile": 16, "spalte": "B", "wert": "nicht mahnen", "typ": "text"}
+{"zelle": "C16", "zeile": 16, "spalte": "C", "wert": "Nein", "typ": "text"}
+{"zelle": "A17", "zeile": 17, "spalte": "A", "wert": "RA", "typ": "text"}
+{"zelle": "B17", "zeile": 17, "spalte": "B", "wert": "Ra Hellmann", "typ": "text"}
+{"zelle": "C17", "zeile": 17, "spalte": "C", "wert": "Nein", "typ": "text"}
+{"zelle": "A18", "zeile": 18, "spalte": "A", "wert": "RLS", "typ": "text"}
+{"zelle": "B18", "zeile": 18, "spalte": "B", "wert": "Rücklastschrift", "typ": "text"}
+{"zelle": "C18", "zeile": 18, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A19", "zeile": 19, "spalte": "A", "wert": "RZFM", "typ": "text"}
+{"zelle": "B19", "zeile": 19, "spalte": "B", "wert": "Ratenzahlung/Überwachung man.", "typ": "text"}
+{"zelle": "C19", "zeile": 19, "spalte": "C", "wert": "Nein", "typ": "text"}
+{"zelle": "A20", "zeile": 20, "spalte": "A", "wert": "ÜW", "typ": "text"}
+{"zelle": "B20", "zeile": 20, "spalte": "B", "wert": "Überweisung", "typ": "text"}
+{"zelle": "C20", "zeile": 20, "spalte": "C", "wert": "JA", "typ": "text"}
+{"zelle": "A21", "zeile": 21, "spalte": "A", "wert": "ZV", "typ": "text"}
+{"zelle": "B21", "zeile": 21, "spalte": "B", "wert": "Zwangsvollstreckung bei CR Brö", "typ": "text"}
+{"zelle": "C21", "zeile": 21, "spalte": "C", "wert": "Nein", "typ": "text"}

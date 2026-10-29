@@ -1,0 +1,76 @@
+﻿nav_tabelle;code;status_gesamt;beschreibungen;status_je_quelle;uebergeordnete_codes;fachbereiche;hinweise;verwendet_in;in_gebuchten_daten;nav_beschreibung;nav_anzahl_gebucht;nav_letzte_verwendung;quellen
+Reklamationsgrund;10;unklar;;0ac7c4e385-2:K2=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K2
+Reklamationsgrund;100;unklar;;0ac7c4e385-2:A2=unklar | 0ac7c4e385-2:B2=unklar | 0ac7c4e385-2:D2=unklar | 0ac7c4e385-2:E2=unklar | 0ac7c4e385-2:F2=unklar | 0ac7c4e385-2:K3=unklar | 0ac7c4e385-2:L2=unklar | 0ac7c4e385-2:Y2=unklar;ABSPRACHE, ALLGEMEIN, ANSCHRIFT, AUSTAUSCH, DEFEKT, FALSCH, LIEFERUNG, VERWEIGERT;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / A2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / B2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / D2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / E2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / F2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / L2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / Y2
+Reklamationsgrund;20;unklar;;0ac7c4e385-2:K4=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K4
+Reklamationsgrund;30;unklar;;0ac7c4e385-2:K5=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K5
+Reklamationsgrund;40;unklar;;0ac7c4e385-2:K6=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K6
+Reklamationsgrund;50;unklar;;0ac7c4e385-2:K7=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K7
+Reklamationsgrund;60;unklar;;0ac7c4e385-2:K8=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K8
+Reklamationsgrund;99;unklar;;0ac7c4e385-2:K9=unklar;ALLGEMEIN;;code_als_zahl_in_excel, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K9
+Reklamationsgrund;ALLG;unklar;;0ac7c4e385-2:J2=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J2
+Reklamationsgrund;ASV;unklar;;0ac7c4e385-2:I2=unklar | 0ac7c4e385-2:J3=unklar | 0ac7c4e385-2:N2=unklar;ABO, ABO CO2, PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N2
+Reklamationsgrund;AUSSERORDEN;unklar;;0ac7c4e385-2:N3=unklar;PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N3
+Reklamationsgrund;BESTELL;unklar;;0ac7c4e385-2:I3=unklar | 0ac7c4e385-2:J4=unklar | 0ac7c4e385-2:N4=unklar;ABO, ABO CO2, PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J4 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N4
+Reklamationsgrund;BRUCH;unklar;;0ac7c4e385-2:T2=unklar;SOLCENTER;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / T2
+Reklamationsgrund;BRÜHER;unklar;;0ac7c4e385-2:C2=unklar;BRÜHER;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / C2
+Reklamationsgrund;ENDE;unklar;;0ac7c4e385-2:X14=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X14
+Reklamationsgrund;ENTWENDET;unklar;;0ac7c4e385-2:A3=unklar | 0ac7c4e385-2:E3=unklar | 0ac7c4e385-2:F3=unklar | 0ac7c4e385-2:K10=unklar | 0ac7c4e385-2:S2=unklar | 0ac7c4e385-2:V2=unklar;ABSPRACHE, ALLGEMEIN, FALSCH, LIEFERUNG, SICHERSTEL, VERLUST;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / A3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / E3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / F3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K10 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / S2 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / V2
+Reklamationsgrund;FALSCHKB;unklar;;0ac7c4e385-2:J5=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J5
+Reklamationsgrund;FEHLER;unklar;;0ac7c4e385-2:J6=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J6
+Reklamationsgrund;GERÄT LA;unklar;;0ac7c4e385-2:I4=unklar;ABO;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I4
+Reklamationsgrund;GEWONNEN;unklar;;0ac7c4e385-2:J7=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J7
+Reklamationsgrund;INFOKB;unklar;;0ac7c4e385-2:J8=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J8
+Reklamationsgrund;KAPAZITÄT;unklar;;0ac7c4e385-2:J9=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J9
+Reklamationsgrund;KDSAKBE;unklar;;0ac7c4e385-2:J10=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J10
+Reklamationsgrund;KEIN GERÄT;unklar;;0ac7c4e385-2:I5=unklar | 0ac7c4e385-2:J11=unklar;ABO, ABO CO2;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I5 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J11
+Reklamationsgrund;KEINE DATE;unklar;;0ac7c4e385-2:I6=unklar;ABO;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I6
+Reklamationsgrund;KÜ;unklar;;0ac7c4e385-2:X15=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X15
+Reklamationsgrund;KÜ-ABLÖSE;unklar;;0ac7c4e385-2:X16=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X16
+Reklamationsgrund;KÜ-ABSTAND;unklar;;0ac7c4e385-2:X17=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X17
+Reklamationsgrund;KÜ-CP;unklar;;0ac7c4e385-2:X18=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X18
+Reklamationsgrund;KÜ-GWAB;unklar;;0ac7c4e385-2:X19=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X19
+Reklamationsgrund;KÜ-INSO;unklar;;0ac7c4e385-2:X20=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X20
+Reklamationsgrund;KÜ-MERC;unklar;;0ac7c4e385-2:X21=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X21
+Reklamationsgrund;KÜ-RECHT;unklar;;0ac7c4e385-2:X22=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X22
+Reklamationsgrund;KÜ-SCHADEN;unklar;;0ac7c4e385-2:X23=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X23
+Reklamationsgrund;KÜ-SCHROTT;unklar;;0ac7c4e385-2:X24=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X24
+Reklamationsgrund;KÜ-SOKÜ;unklar;;0ac7c4e385-2:X25=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X25
+Reklamationsgrund;KÜ-STNA;unklar;;0ac7c4e385-2:X26=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X26
+Reklamationsgrund;KÜ-STO;unklar;;0ac7c4e385-2:X27=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X27
+Reklamationsgrund;KÜ-TEST;unklar;;0ac7c4e385-2:X28=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X28
+Reklamationsgrund;MIGRATION;unklar;;0ac7c4e385-2:I7=unklar | 0ac7c4e385-2:N5=unklar;ABO, PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I7 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N5
+Reklamationsgrund;OP;unklar;;0ac7c4e385-2:I8=unklar;ABO;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I8
+Reklamationsgrund;REFI;unklar;;0ac7c4e385-2:X29=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X29
+Reklamationsgrund;SAISON;unklar;;0ac7c4e385-2:I9=unklar;ABO;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I9
+Reklamationsgrund;SELBSTVER;unklar;;0ac7c4e385-2:I10=unklar | 0ac7c4e385-2:N6=unklar;ABO, PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I10 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N6
+Reklamationsgrund;SERIENNUMM;unklar;;0ac7c4e385-2:X30=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X30
+Reklamationsgrund;SHOP;unklar;;0ac7c4e385-2:I11=unklar;ABO;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I11
+Reklamationsgrund;STANDORTW;unklar;;0ac7c4e385-2:X31=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X31
+Reklamationsgrund;STVA;unklar;;0ac7c4e385-2:X32=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X32
+Reklamationsgrund;STVA-BONI;unklar;;0ac7c4e385-2:X33=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X33
+Reklamationsgrund;STVA-KONDI;unklar;;0ac7c4e385-2:X34=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X34
+Reklamationsgrund;STVA-MSZ;unklar;;0ac7c4e385-2:X35=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X35
+Reklamationsgrund;SWAP;unklar;;0ac7c4e385-2:B3=unklar | 0ac7c4e385-2:X36=unklar;AUSTAUSCH, VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / B3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X36
+Reklamationsgrund;TECHN;unklar;;0ac7c4e385-2:I12=unklar;ABO;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I12
+Reklamationsgrund;VERSCHROTT;unklar;;0ac7c4e385-2:A4=unklar | 0ac7c4e385-2:E4=unklar | 0ac7c4e385-2:F4=unklar | 0ac7c4e385-2:K11=unklar | 0ac7c4e385-2:S3=unklar | 0ac7c4e385-2:V3=unklar;ABSPRACHE, ALLGEMEIN, FALSCH, LIEFERUNG, SICHERSTEL, VERLUST;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / A4 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / E4 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / F4 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K11 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / S3 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / V3
+Reklamationsgrund;VERSCHWUND;unklar;;0ac7c4e385-2:A5=unklar | 0ac7c4e385-2:E5=unklar | 0ac7c4e385-2:F5=unklar | 0ac7c4e385-2:K12=unklar | 0ac7c4e385-2:S4=unklar | 0ac7c4e385-2:V4=unklar;ABSPRACHE, ALLGEMEIN, FALSCH, LIEFERUNG, SICHERSTEL, VERLUST;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / A5 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / E5 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / F5 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / K12 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / S4 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / V4
+Reklamationsgrund;VERTRAG;unklar;;0ac7c4e385-2:I13=unklar | 0ac7c4e385-2:N7=unklar;ABO, PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I13 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N7
+Reklamationsgrund;ZU SPÄT;unklar;;0ac7c4e385-2:I14=unklar;ABO;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I14
+Reklamationsgrund;ZU TEUER;unklar;;0ac7c4e385-2:I15=unklar | 0ac7c4e385-2:J12=unklar | 0ac7c4e385-2:N8=unklar;ABO, ABO CO2, PD;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I15 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J12 | Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N8
+Reklamationsgrund;ZU VIEL;unklar;;0ac7c4e385-2:I16=unklar;ABO;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I16
+Reklamationsgrund;ZU WENIG;unklar;;0ac7c4e385-2:I17=unklar;ABO;;code_mit_leerzeichen, farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I17
+Reklamationsgrund;ZUSAMMEN;unklar;;0ac7c4e385-2:N9=unklar;PD;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / N9
+Reklamationsgrund;ZUVIEL;unklar;;0ac7c4e385-2:J13=unklar;ABO CO2;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / J13
+Reklamationsgrund;ZYKLUS;unklar;;0ac7c4e385-2:I18=unklar;ABO;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / I18
+Reklamationsgrund;ÄND-ASV;unklar;;0ac7c4e385-2:X2=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X2
+Reklamationsgrund;ÄND-DEFEKT;unklar;;0ac7c4e385-2:X3=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X3
+Reklamationsgrund;ÄND-DOWN;unklar;;0ac7c4e385-2:X4=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X4
+Reklamationsgrund;ÄND-EIG;unklar;;0ac7c4e385-2:X5=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X5
+Reklamationsgrund;ÄND-FALSCH;unklar;;0ac7c4e385-2:X6=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X6
+Reklamationsgrund;ÄND-K;unklar;;0ac7c4e385-2:X7=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X7
+Reklamationsgrund;ÄND-RK;unklar;;0ac7c4e385-2:X8=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X8
+Reklamationsgrund;ÄND-UMRÜST;unklar;;0ac7c4e385-2:X9=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X9
+Reklamationsgrund;ÄND-UMSCH;unklar;;0ac7c4e385-2:X10=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X10
+Reklamationsgrund;ÄND-UP;unklar;;0ac7c4e385-2:X11=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X11
+Reklamationsgrund;ÄND-VERL;unklar;;0ac7c4e385-2:X12=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X12
+Reklamationsgrund;ÄND-VV;unklar;;0ac7c4e385-2:X13=unklar;VERTRAG;;farbe_ohne_bedeutung;;unbekannt;;;;Excel_zur_Bereinigung.xlsx / Reklamationsgründe / X13
