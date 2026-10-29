@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# data_transformation
-=======
 # NAV → BC: Harmonisierung der Code-Tabellen
 
 Arbeitsrepository, in dem Claude und Codex die Bereinigungstabellen der Fachbereiche
@@ -86,4 +83,3 @@ rm -rf state/* work/extrakt work/normalisiert work/konsolidiert output/* profile
 * Profiltypen: `liste` und `matrix`. Taucht ein Layout auf, das keins von beiden ist,
   kann der Agent `p1_apply.py` um einen Typ erweitern. Das ist eine eigene Einheit und
   wird reviewt.
->>>>>>> master
