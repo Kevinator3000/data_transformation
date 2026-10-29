@@ -1,0 +1,22 @@
+{
+ "blatt_id": "0ac7c4e385-2",
+ "profil": "Lb1318683",
+ "erzeugt": "2026-10-29 14:18",
+ "inhalt_hash": "97bd2f1145c990c2",
+ "profil_hash": "992e92312aed7594",
+ "datensaetze": 108,
+ "status": {
+  "unklar": 108
+ },
+ "status_quelle": {
+  "keine_aussage": 108
+ },
+ "hinweise": {
+  "farbe_ohne_bedeutung": 108,
+  "code_als_zahl_in_excel": 14,
+  "code_mit_leerzeichen": 10
+ },
+ "notizen_ohne_zuordnung": [],
+ "ignoriert": {},
+ "nicht_abgedeckt": []
+}

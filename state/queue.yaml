@@ -1,0 +1,120 @@
+einheiten:
+- id: P1-PROFIL-L6535abb7
+  titel: Profil 'L6535abb7' für 1 Blatt/Blätter schreiben (z. B. Hauptreklamationsgründe)
+  status: done
+  abhaengig_von: []
+  ziele:
+  - 0ac7c4e385-1
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 'Liste: Code A, Beschreibung B, Nutzung je Bereich C–F, Entscheidung G (Behalten/Löschen). Gelb in G redundant zum Text.'
+  beendet: 2026-10-29 14:18
+- id: P1-PRUEFUNG-0ac7c4e385-1
+  titel: 'Ergebnis prüfen: Blatt ''Hauptreklamationsgründe'''
+  status: done
+  abhaengig_von:
+  - P1-PROFIL-L6535abb7
+  ziele:
+  - 0ac7c4e385-1
+  stand: 3266880d14e1d8cf
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 114 Codes (25 Behalten, 89 Löschen). 3 ohne Beschreibung (F-005), VERSICH ohne Nutzung (F-006), SD-NACH28 (F-007). Kopfzeile Blatt 2 = exakt die 25 behaltenen Codes.
+  beendet: 2026-10-29 14:18
+- id: P1-PROFIL-L82b87279
+  titel: Profil 'L82b87279' für 1 Blatt/Blätter schreiben (z. B. Abwartengründe)
+  status: done
+  abhaengig_von: []
+  ziele:
+  - f918c7f6e7-1
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: Liste mit 'relevant ja/nein' (Annahme, F-002). Spalte F = lose Notizen über Kürzel zugeordnet; F9 manuell RZVM→RZFM (F-003).
+  beendet: 2026-10-29 14:18
+- id: P1-PRUEFUNG-f918c7f6e7-1
+  titel: 'Ergebnis prüfen: Blatt ''Abwartengründe'''
+  status: done
+  abhaengig_von:
+  - P1-PROFIL-L82b87279
+  ziele:
+  - f918c7f6e7-1
+  stand: 214ec84390e4b222
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 20 Codes (12 behalten, 8 verwerfen – alle unter Annahme F-002). ÜW offen (F-004).
+  beendet: 2026-10-29 14:18
+- id: P1-PROFIL-Lb1318683
+  titel: Profil 'Lb1318683' für 1 Blatt/Blätter schreiben (z. B. Reklamationsgründe)
+  status: done
+  abhaengig_von: []
+  ziele:
+  - 0ac7c4e385-2
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 'Matrix: Kopf = Hauptreklamationsgründe, darunter Reklamationsgründe (n:m). Farben grün/grau ohne Legende → Status unklar, Frage F-001.'
+  beendet: 2026-10-29 14:18
+- id: P1-PRUEFUNG-0ac7c4e385-2
+  titel: 'Ergebnis prüfen: Blatt ''Reklamationsgründe'''
+  status: done
+  abhaengig_von:
+  - P1-PROFIL-Lb1318683
+  ziele:
+  - 0ac7c4e385-2
+  stand: 97bd2f1145c990c2
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 108 Ober-/Untercode-Zuordnungen (75 Codes), alle unklar (F-001). 14 numerische Codes (F-008).
+  beendet: 2026-10-29 14:18
+- id: P1-KONSOLIDIERUNG
+  titel: Alle Blätter je NAV-Tabelle zusammenführen, Konflikte prüfen
+  status: done
+  abhaengig_von:
+  - P1-PRUEFUNG-0ac7c4e385-1
+  - P1-PRUEFUNG-f918c7f6e7-1
+  - P1-PRUEFUNG-0ac7c4e385-2
+  agent: claude
+  gestartet: 2026-10-29 14:18
+  ergebnis: 3 NAV-Tabellen, keine Mehrfachbewertung zwischen Blättern. NAV-Exporte fehlen → Phase 2 wartet darauf.
+  beendet: 2026-10-29 14:18
+- id: P2-EINORDNUNG-abwartengrund
+  titel: 'Aktion und Zeitpunkt je Code festlegen: abwartengrund'
+  status: todo
+  abhaengig_von:
+  - P1-KONSOLIDIERUNG
+  - P1-VERWENDUNGEN
+  ziele:
+  - abwartengrund.csv
+- id: P2-EINORDNUNG-hauptreklamationsgrund
+  titel: 'Aktion und Zeitpunkt je Code festlegen: hauptreklamationsgrund'
+  status: todo
+  abhaengig_von:
+  - P1-KONSOLIDIERUNG
+  - P1-VERWENDUNGEN
+  ziele:
+  - hauptreklamationsgrund.csv
+- id: P2-EINORDNUNG-reklamationsgrund
+  titel: 'Aktion und Zeitpunkt je Code festlegen: reklamationsgrund'
+  status: todo
+  abhaengig_von:
+  - P1-KONSOLIDIERUNG
+  - P1-VERWENDUNGEN
+  ziele:
+  - reklamationsgrund.csv
+- id: P3-CROSSWALK
+  titel: Crosswalk alt→neu erzeugen und Lücken schließen
+  status: todo
+  abhaengig_von:
+  - P2-EINORDNUNG-abwartengrund
+  - P2-EINORDNUNG-hauptreklamationsgrund
+  - P2-EINORDNUNG-reklamationsgrund
+- id: P3-KONZEPT
+  titel: Migrationskonzept schreiben
+  status: todo
+  abhaengig_von:
+  - P3-CROSSWALK
+- id: P1-VERWENDUNGEN
+  titel: Verwendungsorte je Code-Tabelle aus dem Handbook erfassen
+  status: todo
+  abhaengig_von:
+  - P1-KONSOLIDIERUNG
+stand: 2026-10-29 14:45

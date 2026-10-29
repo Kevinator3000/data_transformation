@@ -1,0 +1,21 @@
+﻿datensatz_id;blatt_id;quelle;zeile;nav_tabelle;fachbereich;code;code_roh;beschreibung;uebergeordneter_code;bewertung_original;nutzung;farbe;status;status_quelle;notizen;hinweise
+f918c7f6e7-1:A2;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A2;2;Abwartengrund;;AB;AB;AUSBUCHEN;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A3;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A3;3;Abwartengrund;;CR;CR;Creditreform;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A4;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A4;4;Abwartengrund;;CRAK;CRAK;Andere Akte;;nein;;;verwerfen;regel_mit_annahme;Notiz F3 (über Code am Textanfang): CRAK – raus;
+f918c7f6e7-1:A5;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A5;5;Abwartengrund;;DZ;DZ;Doppelzahlung;;nein;;;verwerfen;regel_mit_annahme;Notiz F6 (über Code am Textanfang): DZ – Doppelzahlung raus;
+f918c7f6e7-1:A6;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A6;6;Abwartengrund;;GH;GH;Guthaben/Rechnungen Altlasten;;nein;;;verwerfen;regel_mit_annahme;Notiz F5 (über Code am Textanfang): GH – Guthaben – raus;
+f918c7f6e7-1:A7;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A7;7;Abwartengrund;;INSO;INSO;Insolvenz;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A8;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A8;8;Abwartengrund;;IR;IR;Irrläufer;;nein;;;verwerfen;regel_mit_annahme;Notiz F4 (über Code am Textanfang): IR – Irrläufer – raus;
+f918c7f6e7-1:A9;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A9;9;Abwartengrund;;KL;KL;in Klärung;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A10;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A10;10;Abwartengrund;;KLC;KLC;in Klärung Contract;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A11;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A11;11;Abwartengrund;;KL-DK;KL-DK;in Klärung Team DK;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A12;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A12;12;Abwartengrund;;KLKAM;KLKAM;in Klärung KAM Team;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A13;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A13;13;Abwartengrund;;KLP;KLP;in Klärung Sol.Center/Produkte;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A14;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A14;14;Abwartengrund;;KLR;KLR;in Klärung Recht;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A15;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A15;15;Abwartengrund;;KLT;KLT;in Klärung Sol.Center/Technik;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A16;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A16;16;Abwartengrund;;NM;NM;nicht mahnen;;Nein;;;verwerfen;regel_mit_annahme;Notiz F8 (über Code am Textanfang): NM – nicht mahnen raus;
+f918c7f6e7-1:A17;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A17;17;Abwartengrund;;RA;RA;Ra Hellmann;;Nein;;;verwerfen;regel_mit_annahme;Notiz F7 (über Code am Textanfang): RA – Rechtsanwalt raus;
+f918c7f6e7-1:A18;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A18;18;Abwartengrund;;RLS;RLS;Rücklastschrift;;JA;;;behalten;regel_mit_annahme;;
+f918c7f6e7-1:A19;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A19;19;Abwartengrund;;RZFM;RZFM;Ratenzahlung/Überwachung man.;;Nein;;;verwerfen;regel_mit_annahme;"Notiz F9 (manuell zugeordnet (Notiz nennt 'RZVM – Ratenzahlung'; RZVM existiert nicht, RZFM = 'Ratenzahlung/Überwachung man.' – Tippfehler vermutet, Bestätigung über offene Frage)): RZVM – Ratenzahlung raus";notiz_manuell_zugeordnet
+f918c7f6e7-1:A20;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A20;20;Abwartengrund;;ÜW;ÜW;Überweisung;;JA;;;behalten;regel_mit_annahme;Notiz F10 (über Code am Textanfang): ÜW – Frage bei Fibu;notiz_offene_frage
+f918c7f6e7-1:A21;f918c7f6e7-1;Abwartengründe_Liste-bearbeitet.xlsx / Abwartengründe / A21;21;Abwartengrund;;ZV;ZV;Zwangsvollstreckung bei CR Brö;;Nein;;;verwerfen;regel_mit_annahme;Notiz F11 (über Code am Textanfang): ZV – Zwangsvollstreckung bei CR raus;

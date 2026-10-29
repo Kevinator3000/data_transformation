@@ -1,0 +1,22 @@
+{
+ "blatt_id": "f918c7f6e7-1",
+ "profil": "L82b87279",
+ "erzeugt": "2026-10-29 14:18",
+ "inhalt_hash": "214ec84390e4b222",
+ "profil_hash": "7a6b314350d04074",
+ "datensaetze": 20,
+ "status": {
+  "behalten": 12,
+  "verwerfen": 8
+ },
+ "status_quelle": {
+  "regel_mit_annahme": 20
+ },
+ "hinweise": {
+  "notiz_manuell_zugeordnet": 1,
+  "notiz_offene_frage": 1
+ },
+ "notizen_ohne_zuordnung": [],
+ "ignoriert": {},
+ "nicht_abgedeckt": []
+}

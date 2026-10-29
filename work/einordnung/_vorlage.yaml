@@ -1,0 +1,16 @@
+# Vorlage für work/einordnung/<tabelle>.yaml (Dateiname = Name der Datei in work/konsolidiert/)
+nav_tabelle: Hauptreklamationsgrund
+grundlagen:
+  - context/data_quality_handbook.md
+  - context/migrationsgrundsaetze.md
+  - input/nav_exports/hauptreklamationsgrund.csv
+entscheidungen:
+  - code: ABSPRACHE
+    aktion: behalten              # behalten | umbenennen | zusammenfuehren | sperren | nicht_migrieren
+    code_neu: ABSPRACHE           # Pflicht bei umbenennen/zusammenfuehren
+    zeitpunkt: migration          # vor_migration | migration | nach_migration
+    begruendung: "Von 3 Bereichen genutzt; Fachbereich: Behalten."
+    handbook_bezug: "Kap. x.y"
+    bedeutung_alt: null           # nur nötig, wenn weder Excel noch NAV-Export eine Beschreibung liefern
+    fragen: []                    # z. B. [F-005]
+    freigabe: {durch: null, datum: null}

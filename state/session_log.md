@@ -1,0 +1,28 @@
+# Session-Log (append-only)
+
+- 2026-10-29 14:18 [skript] p0_extract: 3 Dateien, 3 Blätter, 3 Layout-Gruppen, {'extrahiert': 3, 'duplikat_datei': 1}
+- 2026-10-29 14:18 [claude] start P1-PROFIL-Lb1318683
+- 2026-10-29 14:18 [frage] F-001 angelegt (P1-PROFIL-Lb1318683): Was bedeuten die Farben im Blatt 'Reklamationsgründe'? 96 Zellen sind grün, 12 h
+- 2026-10-29 14:18 [claude] done P1-PROFIL-Lb1318683: Matrix: Kopf = Hauptreklamationsgründe, darunter Reklamationsgründe (n:m). Farben grün/grau ohne Legende → Status unklar, Frage F-001.
+- 2026-10-29 14:18 [claude] start P1-PROFIL-L6535abb7
+- 2026-10-29 14:18 [claude] start P1-PROFIL-L82b87279
+- 2026-10-29 14:18 [frage] F-002 angelegt (P1-PROFIL-L82b87279): Bedeutet 'relevant = nein', dass der Abwartengrund künftig nicht mehr verwendet 
+- 2026-10-29 14:18 [frage] F-003 angelegt (P1-PROFIL-L82b87279): Die Notiz 'RZVM – Ratenzahlung raus' nennt einen Code, den es in der Liste nicht
+- 2026-10-29 14:18 [claude] done P1-PROFIL-L6535abb7: Liste: Code A, Beschreibung B, Nutzung je Bereich C–F, Entscheidung G (Behalten/Löschen). Gelb in G redundant zum Text.
+- 2026-10-29 14:18 [claude] done P1-PROFIL-L82b87279: Liste mit 'relevant ja/nein' (Annahme, F-002). Spalte F = lose Notizen über Kürzel zugeordnet; F9 manuell RZVM→RZFM (F-003).
+- 2026-10-29 14:18 [frage] F-004 angelegt (P1-PRUEFUNG-f918c7f6e7-1): Abwartengrund ÜW ('Überweisung') ist als relevant markiert, die Notiz sagt aber 
+- 2026-10-29 14:18 [frage] F-005 angelegt (P1-PRUEFUNG-0ac7c4e385-1): AUSTAUSCH, DEFEKT und UMTAUSCH haben keine Beschreibung. Was bedeuten sie? Für d
+- 2026-10-29 14:18 [frage] F-006 angelegt (P1-PRUEFUNG-0ac7c4e385-1): VERSICH ('Versicherungsfall') steht auf Behalten, wird laut Liste aber von keine
+- 2026-10-29 14:18 [frage] F-007 angelegt (P1-PRUEFUNG-0ac7c4e385-1): SD-NACH28 trägt die Beschreibung 'Nachfassaktion 24/2017', einen Code SD-NACH24 
+- 2026-10-29 14:18 [frage] F-008 angelegt (P1-PRUEFUNG-0ac7c4e385-2): 14 Reklamationsgründe stehen in Excel als Zahl (10, 20 … 99, 100). Heißen sie in
+- 2026-10-29 14:18 [claude] start P1-PRUEFUNG-f918c7f6e7-1
+- 2026-10-29 14:18 [claude] start P1-PRUEFUNG-0ac7c4e385-1
+- 2026-10-29 14:18 [claude] start P1-PRUEFUNG-0ac7c4e385-2
+- 2026-10-29 14:18 [claude] done P1-PRUEFUNG-f918c7f6e7-1: 20 Codes (12 behalten, 8 verwerfen – alle unter Annahme F-002). ÜW offen (F-004).
+- 2026-10-29 14:18 [claude] done P1-PRUEFUNG-0ac7c4e385-1: 114 Codes (25 Behalten, 89 Löschen). 3 ohne Beschreibung (F-005), VERSICH ohne Nutzung (F-006), SD-NACH28 (F-007). Kopfzeile Blatt 2 = exakt die 25 behaltenen Codes.
+- 2026-10-29 14:18 [claude] done P1-PRUEFUNG-0ac7c4e385-2: 108 Ober-/Untercode-Zuordnungen (75 Codes), alle unklar (F-001). 14 numerische Codes (F-008).
+- 2026-10-29 14:18 [claude] start P1-KONSOLIDIERUNG
+- 2026-10-29 14:18 [skript] p1_consolidate: 3 NAV-Tabellen
+- 2026-10-29 14:18 [claude] done P1-KONSOLIDIERUNG: 3 NAV-Tabellen, keine Mehrfachbewertung zwischen Blättern. NAV-Exporte fehlen → Phase 2 wartet darauf.
+- 2026-10-29 14:20 [skript] p1_consolidate: 3 NAV-Tabellen
+- 2026-10-29 14:45 [skript] p1_consolidate: 3 NAV-Tabellen

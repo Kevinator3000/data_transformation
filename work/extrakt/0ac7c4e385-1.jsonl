@@ -1,0 +1,802 @@
+{"zelle": "A1", "zeile": 1, "spalte": "A", "wert": "Code", "typ": "text", "fuellung": "#D9D9D9", "fett": true}
+{"zelle": "B1", "zeile": 1, "spalte": "B", "wert": "Beschreibung", "typ": "text", "fuellung": "#D9D9D9", "fett": true}
+{"zelle": "C1", "zeile": 1, "spalte": "C", "wert": "Service (ABOS und VK REKLA)", "typ": "text", "fuellung": "#D9D9D9"}
+{"zelle": "D1", "zeile": 1, "spalte": "D", "wert": "Sol-Center (ABOS und VK-REKLA)", "typ": "text", "fuellung": "#D9D9D9"}
+{"zelle": "E1", "zeile": 1, "spalte": "E", "wert": "Logistics (VK-REKLAS)", "typ": "text", "fuellung": "#D9D9D9"}
+{"zelle": "F1", "zeile": 1, "spalte": "F", "wert": "Auftrag / Vertrag (Kündigung, Vk-Rekla)", "typ": "text", "fuellung": "#D9D9D9"}
+{"zelle": "G1", "zeile": 1, "spalte": "G", "wert": "Behalten Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A2", "zeile": 2, "spalte": "A", "wert": "ABSPRACHE", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B2", "zeile": 2, "spalte": "B", "wert": "individuelle Absprache", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C2", "zeile": 2, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D2", "zeile": 2, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E2", "zeile": 2, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F2", "zeile": 2, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G2", "zeile": 2, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A3", "zeile": 3, "spalte": "A", "wert": "AUSTAUSCH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C3", "zeile": 3, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D3", "zeile": 3, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E3", "zeile": 3, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F3", "zeile": 3, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G3", "zeile": 3, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A4", "zeile": 4, "spalte": "A", "wert": "BRÜHER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B4", "zeile": 4, "spalte": "B", "wert": "Defekter Brüher zurück", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C4", "zeile": 4, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D4", "zeile": 4, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E4", "zeile": 4, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F4", "zeile": 4, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G4", "zeile": 4, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A5", "zeile": 5, "spalte": "A", "wert": "DEFEKT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C5", "zeile": 5, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D5", "zeile": 5, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E5", "zeile": 5, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F5", "zeile": 5, "spalte": "F", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G5", "zeile": 5, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A6", "zeile": 6, "spalte": "A", "wert": "FALSCH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B6", "zeile": 6, "spalte": "B", "wert": "falsch", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C6", "zeile": 6, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D6", "zeile": 6, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E6", "zeile": 6, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F6", "zeile": 6, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G6", "zeile": 6, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A7", "zeile": 7, "spalte": "A", "wert": "LIEFERUNG", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B7", "zeile": 7, "spalte": "B", "wert": "falsche Lieferung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C7", "zeile": 7, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D7", "zeile": 7, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E7", "zeile": 7, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F7", "zeile": 7, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G7", "zeile": 7, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A8", "zeile": 8, "spalte": "A", "wert": "RÜCKNAHME", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B8", "zeile": 8, "spalte": "B", "wert": "Rücknahme", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C8", "zeile": 8, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D8", "zeile": 8, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E8", "zeile": 8, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F8", "zeile": 8, "spalte": "F", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G8", "zeile": 8, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A9", "zeile": 9, "spalte": "A", "wert": "TRANSPORT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B9", "zeile": 9, "spalte": "B", "wert": "Tansportschaden", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C9", "zeile": 9, "spalte": "C", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D9", "zeile": 9, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E9", "zeile": 9, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F9", "zeile": 9, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G9", "zeile": 9, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A10", "zeile": 10, "spalte": "A", "wert": "ABO", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B10", "zeile": 10, "spalte": "B", "wert": "Abonnement", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C10", "zeile": 10, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D10", "zeile": 10, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E10", "zeile": 10, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F10", "zeile": 10, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G10", "zeile": 10, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A11", "zeile": 11, "spalte": "A", "wert": "ABO CO2", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B11", "zeile": 11, "spalte": "B", "wert": "CO2-Zyklusabo", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C11", "zeile": 11, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D11", "zeile": 11, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E11", "zeile": 11, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F11", "zeile": 11, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G11", "zeile": 11, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A12", "zeile": 12, "spalte": "A", "wert": "ALLGEMEIN", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B12", "zeile": 12, "spalte": "B", "wert": "Allgemeine Rücksendung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C12", "zeile": 12, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D12", "zeile": 12, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E12", "zeile": 12, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F12", "zeile": 12, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G12", "zeile": 12, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A13", "zeile": 13, "spalte": "A", "wert": "ANSCHRIFT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B13", "zeile": 13, "spalte": "B", "wert": "falsche Anschrift", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C13", "zeile": 13, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D13", "zeile": 13, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E13", "zeile": 13, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F13", "zeile": 13, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G13", "zeile": 13, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A14", "zeile": 14, "spalte": "A", "wert": "ASV", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B14", "zeile": 14, "spalte": "B", "wert": "Anschlussvertrag/neues Gerät/SD", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C14", "zeile": 14, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D14", "zeile": 14, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E14", "zeile": 14, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F14", "zeile": 14, "spalte": "F", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G14", "zeile": 14, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A15", "zeile": 15, "spalte": "A", "wert": "PD", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B15", "zeile": 15, "spalte": "B", "wert": "Premium Delivery", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C15", "zeile": 15, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D15", "zeile": 15, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E15", "zeile": 15, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F15", "zeile": 15, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G15", "zeile": 15, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A16", "zeile": 16, "spalte": "A", "wert": "PFAND", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B16", "zeile": 16, "spalte": "B", "wert": "Pfand durch CO2 Rücknahme", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C16", "zeile": 16, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D16", "zeile": 16, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E16", "zeile": 16, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F16", "zeile": 16, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G16", "zeile": 16, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A17", "zeile": 17, "spalte": "A", "wert": "SERIENNUMM", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B17", "zeile": 17, "spalte": "B", "wert": "Seriennummern vertauscht", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C17", "zeile": 17, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D17", "zeile": 17, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E17", "zeile": 17, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F17", "zeile": 17, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G17", "zeile": 17, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A18", "zeile": 18, "spalte": "A", "wert": "SERVICESUP", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B18", "zeile": 18, "spalte": "B", "wert": "Gerätereklamation zur Püfung/Entsorgung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C18", "zeile": 18, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D18", "zeile": 18, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E18", "zeile": 18, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F18", "zeile": 18, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G18", "zeile": 18, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A19", "zeile": 19, "spalte": "A", "wert": "SHOP", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B19", "zeile": 19, "spalte": "B", "wert": "Im Webshop storniert", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C19", "zeile": 19, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D19", "zeile": 19, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E19", "zeile": 19, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F19", "zeile": 19, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G19", "zeile": 19, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A20", "zeile": 20, "spalte": "A", "wert": "SICHERSTEL", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B20", "zeile": 20, "spalte": "B", "wert": "Sicherstellung des Gerätes", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C20", "zeile": 20, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D20", "zeile": 20, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E20", "zeile": 20, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F20", "zeile": 20, "spalte": "F", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G20", "zeile": 20, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A21", "zeile": 21, "spalte": "A", "wert": "SOLCENTER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B21", "zeile": 21, "spalte": "B", "wert": "Solution Center", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C21", "zeile": 21, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D21", "zeile": 21, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E21", "zeile": 21, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F21", "zeile": 21, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G21", "zeile": 21, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A22", "zeile": 22, "spalte": "A", "wert": "TEST", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B22", "zeile": 22, "spalte": "B", "wert": "Test", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C22", "zeile": 22, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D22", "zeile": 22, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E22", "zeile": 22, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F22", "zeile": 22, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G22", "zeile": 22, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A23", "zeile": 23, "spalte": "A", "wert": "VERLUST", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B23", "zeile": 23, "spalte": "B", "wert": "Paketverlust durch DPD/DHL", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C23", "zeile": 23, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D23", "zeile": 23, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E23", "zeile": 23, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F23", "zeile": 23, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G23", "zeile": 23, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A24", "zeile": 24, "spalte": "A", "wert": "VERSICH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B24", "zeile": 24, "spalte": "B", "wert": "Versicherungsfall", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C24", "zeile": 24, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D24", "zeile": 24, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E24", "zeile": 24, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F24", "zeile": 24, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G24", "zeile": 24, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A25", "zeile": 25, "spalte": "A", "wert": "VERTRAG", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B25", "zeile": 25, "spalte": "B", "wert": "Verträge / Contract", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C25", "zeile": 25, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D25", "zeile": 25, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E25", "zeile": 25, "spalte": "E", "wert": "ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F25", "zeile": 25, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G25", "zeile": 25, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A26", "zeile": 26, "spalte": "A", "wert": "VERWEIGERT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B26", "zeile": 26, "spalte": "B", "wert": "Annahme verweigert", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C26", "zeile": 26, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D26", "zeile": 26, "spalte": "D", "wert": "Ja", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E26", "zeile": 26, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F26", "zeile": 26, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G26", "zeile": 26, "spalte": "G", "wert": "Behalten", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "A27", "zeile": 27, "spalte": "A", "wert": "6M SD-NACH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B27", "zeile": 27, "spalte": "B", "wert": "Call 6 Monate nach SD-Nach", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C27", "zeile": 27, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D27", "zeile": 27, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E27", "zeile": 27, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F27", "zeile": 27, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G27", "zeile": 27, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A28", "zeile": 28, "spalte": "A", "wert": "AUßERKÜND", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B28", "zeile": 28, "spalte": "B", "wert": "außerordentliche Kündigung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C28", "zeile": 28, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D28", "zeile": 28, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E28", "zeile": 28, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F28", "zeile": 28, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G28", "zeile": 28, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A29", "zeile": 29, "spalte": "A", "wert": "AUSTRITT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B29", "zeile": 29, "spalte": "B", "wert": "Bestandsauflösung AN Austritt", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C29", "zeile": 29, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D29", "zeile": 29, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E29", "zeile": 29, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F29", "zeile": 29, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G29", "zeile": 29, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A30", "zeile": 30, "spalte": "A", "wert": "BETRAG", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B30", "zeile": 30, "spalte": "B", "wert": "falscher Betrag", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C30", "zeile": 30, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D30", "zeile": 30, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E30", "zeile": 30, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F30", "zeile": 30, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G30", "zeile": 30, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A31", "zeile": 31, "spalte": "A", "wert": "BETRUG", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B31", "zeile": 31, "spalte": "B", "wert": "Kreditkartenbetrüger", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C31", "zeile": 31, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D31", "zeile": 31, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E31", "zeile": 31, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F31", "zeile": 31, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G31", "zeile": 31, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A32", "zeile": 32, "spalte": "A", "wert": "BONUS", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B32", "zeile": 32, "spalte": "B", "wert": "Bonus HR", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C32", "zeile": 32, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D32", "zeile": 32, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E32", "zeile": 32, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F32", "zeile": 32, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G32", "zeile": 32, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A33", "zeile": 33, "spalte": "A", "wert": "CORONA", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B33", "zeile": 33, "spalte": "B", "wert": "AV aufgrund Corona", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C33", "zeile": 33, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D33", "zeile": 33, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E33", "zeile": 33, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F33", "zeile": 33, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G33", "zeile": 33, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A34", "zeile": 34, "spalte": "A", "wert": "DEINST", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B34", "zeile": 34, "spalte": "B", "wert": "Gerät deinstalliert", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C34", "zeile": 34, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D34", "zeile": 34, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E34", "zeile": 34, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F34", "zeile": 34, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G34", "zeile": 34, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A35", "zeile": 35, "spalte": "A", "wert": "DOPPELT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B35", "zeile": 35, "spalte": "B", "wert": "doppelter Auftrag", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C35", "zeile": 35, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D35", "zeile": 35, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E35", "zeile": 35, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F35", "zeile": 35, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G35", "zeile": 35, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A36", "zeile": 36, "spalte": "A", "wert": "ENTWENDET", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B36", "zeile": 36, "spalte": "B", "wert": "Gerät wurde entwendet/gestohlen", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C36", "zeile": 36, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D36", "zeile": 36, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E36", "zeile": 36, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F36", "zeile": 36, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G36", "zeile": 36, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A37", "zeile": 37, "spalte": "A", "wert": "FREMD", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B37", "zeile": 37, "spalte": "B", "wert": "Fremdgerät", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C37", "zeile": 37, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D37", "zeile": 37, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E37", "zeile": 37, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F37", "zeile": 37, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G37", "zeile": 37, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A38", "zeile": 38, "spalte": "A", "wert": "HR", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B38", "zeile": 38, "spalte": "B", "wert": "Storno ", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C38", "zeile": 38, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D38", "zeile": 38, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E38", "zeile": 38, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F38", "zeile": 38, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G38", "zeile": 38, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A39", "zeile": 39, "spalte": "A", "wert": "KABWW", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B39", "zeile": 39, "spalte": "B", "wert": "Keine Abholung Warenwert", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C39", "zeile": 39, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D39", "zeile": 39, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E39", "zeile": 39, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F39", "zeile": 39, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G39", "zeile": 39, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A40", "zeile": 40, "spalte": "A", "wert": "KAUTION", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B40", "zeile": 40, "spalte": "B", "wert": "Kaution nicht gezahlt", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C40", "zeile": 40, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D40", "zeile": 40, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E40", "zeile": 40, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F40", "zeile": 40, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G40", "zeile": 40, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A41", "zeile": 41, "spalte": "A", "wert": "KBÜBER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B41", "zeile": 41, "spalte": "B", "wert": "KB hat Gerät übernommen", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C41", "zeile": 41, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D41", "zeile": 41, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E41", "zeile": 41, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F41", "zeile": 41, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G41", "zeile": 41, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A42", "zeile": 42, "spalte": "A", "wert": "KICKER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B42", "zeile": 42, "spalte": "B", "wert": "Kicker", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C42", "zeile": 42, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D42", "zeile": 42, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E42", "zeile": 42, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F42", "zeile": 42, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G42", "zeile": 42, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A43", "zeile": 43, "spalte": "A", "wert": "KOMPRESSOR", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B43", "zeile": 43, "spalte": "B", "wert": "Kompressorschaden", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C43", "zeile": 43, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D43", "zeile": 43, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E43", "zeile": 43, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F43", "zeile": 43, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G43", "zeile": 43, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A44", "zeile": 44, "spalte": "A", "wert": "KONTO", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B44", "zeile": 44, "spalte": "B", "wert": "falsches Sachkonto", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C44", "zeile": 44, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D44", "zeile": 44, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E44", "zeile": 44, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F44", "zeile": 44, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G44", "zeile": 44, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A45", "zeile": 45, "spalte": "A", "wert": "LEIHGERÄT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B45", "zeile": 45, "spalte": "B", "wert": "Reklamationen mit Leihgerät", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C45", "zeile": 45, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D45", "zeile": 45, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E45", "zeile": 45, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F45", "zeile": 45, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G45", "zeile": 45, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A46", "zeile": 46, "spalte": "A", "wert": "LIEFERZEIT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B46", "zeile": 46, "spalte": "B", "wert": "zu lange Lieferzeit", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C46", "zeile": 46, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D46", "zeile": 46, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E46", "zeile": 46, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F46", "zeile": 46, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G46", "zeile": 46, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A47", "zeile": 47, "spalte": "A", "wert": "MESSE", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B47", "zeile": 47, "spalte": "B", "wert": "Messe", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C47", "zeile": 47, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D47", "zeile": 47, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E47", "zeile": 47, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F47", "zeile": 47, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G47", "zeile": 47, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A48", "zeile": 48, "spalte": "A", "wert": "MUSTER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B48", "zeile": 48, "spalte": "B", "wert": "Musterlieferung / Kreditoren", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C48", "zeile": 48, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D48", "zeile": 48, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E48", "zeile": 48, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F48", "zeile": 48, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G48", "zeile": 48, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A49", "zeile": 49, "spalte": "A", "wert": "PAKETMARKE", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B49", "zeile": 49, "spalte": "B", "wert": "Paket wurde nach Benachrichtigung nicht abgeholt", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C49", "zeile": 49, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D49", "zeile": 49, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E49", "zeile": 49, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F49", "zeile": 49, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G49", "zeile": 49, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A50", "zeile": 50, "spalte": "A", "wert": "PROBESTELL", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B50", "zeile": 50, "spalte": "B", "wert": "Probestellung / Teststellung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C50", "zeile": 50, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D50", "zeile": 50, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E50", "zeile": 50, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F50", "zeile": 50, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G50", "zeile": 50, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A51", "zeile": 51, "spalte": "A", "wert": "RESERVE", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B51", "zeile": 51, "spalte": "B", "wert": "Reserve Gerät ", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C51", "zeile": 51, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D51", "zeile": 51, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E51", "zeile": 51, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F51", "zeile": 51, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G51", "zeile": 51, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A52", "zeile": 52, "spalte": "A", "wert": "SD", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B52", "zeile": 52, "spalte": "B", "wert": "Smart Delivery", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C52", "zeile": 52, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D52", "zeile": 52, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E52", "zeile": 52, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F52", "zeile": 52, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G52", "zeile": 52, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A53", "zeile": 53, "spalte": "A", "wert": "SD/ABO", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B53", "zeile": 53, "spalte": "B", "wert": "SD/ABO", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C53", "zeile": 53, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D53", "zeile": 53, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E53", "zeile": 53, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F53", "zeile": 53, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G53", "zeile": 53, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A54", "zeile": 54, "spalte": "A", "wert": "SD-NA1/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B54", "zeile": 54, "spalte": "B", "wert": "Nachfassaktion 01/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C54", "zeile": 54, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D54", "zeile": 54, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E54", "zeile": 54, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F54", "zeile": 54, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G54", "zeile": 54, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A55", "zeile": 55, "spalte": "A", "wert": "SD-NA10/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B55", "zeile": 55, "spalte": "B", "wert": "Nachfassaktion 10/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C55", "zeile": 55, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D55", "zeile": 55, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E55", "zeile": 55, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F55", "zeile": 55, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G55", "zeile": 55, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A56", "zeile": 56, "spalte": "A", "wert": "SD-NA11/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B56", "zeile": 56, "spalte": "B", "wert": "Nachfassajtion 11/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C56", "zeile": 56, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D56", "zeile": 56, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E56", "zeile": 56, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F56", "zeile": 56, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G56", "zeile": 56, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A57", "zeile": 57, "spalte": "A", "wert": "SD-NA12/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B57", "zeile": 57, "spalte": "B", "wert": "Nachfassaktion 12/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C57", "zeile": 57, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D57", "zeile": 57, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E57", "zeile": 57, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F57", "zeile": 57, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G57", "zeile": 57, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A58", "zeile": 58, "spalte": "A", "wert": "SD-NA13/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B58", "zeile": 58, "spalte": "B", "wert": "Nachfassaktion 13/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C58", "zeile": 58, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D58", "zeile": 58, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E58", "zeile": 58, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F58", "zeile": 58, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G58", "zeile": 58, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A59", "zeile": 59, "spalte": "A", "wert": "SD-NA14/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B59", "zeile": 59, "spalte": "B", "wert": "Nachfassaktion 14/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C59", "zeile": 59, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D59", "zeile": 59, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E59", "zeile": 59, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F59", "zeile": 59, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G59", "zeile": 59, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A60", "zeile": 60, "spalte": "A", "wert": "SD-NA15/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B60", "zeile": 60, "spalte": "B", "wert": "Nachfassaktion 15/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C60", "zeile": 60, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D60", "zeile": 60, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E60", "zeile": 60, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F60", "zeile": 60, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G60", "zeile": 60, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A61", "zeile": 61, "spalte": "A", "wert": "SD-NA16/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B61", "zeile": 61, "spalte": "B", "wert": "Nachfassaktion 16/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C61", "zeile": 61, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D61", "zeile": 61, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E61", "zeile": 61, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F61", "zeile": 61, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G61", "zeile": 61, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A62", "zeile": 62, "spalte": "A", "wert": "SD-NA17/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B62", "zeile": 62, "spalte": "B", "wert": "Nachfassaktion 17/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C62", "zeile": 62, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D62", "zeile": 62, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E62", "zeile": 62, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F62", "zeile": 62, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G62", "zeile": 62, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A63", "zeile": 63, "spalte": "A", "wert": "SD-NA18/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B63", "zeile": 63, "spalte": "B", "wert": "Nachfassaktion 18/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C63", "zeile": 63, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D63", "zeile": 63, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E63", "zeile": 63, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F63", "zeile": 63, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G63", "zeile": 63, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A64", "zeile": 64, "spalte": "A", "wert": "SD-NA19/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B64", "zeile": 64, "spalte": "B", "wert": "Nachfassaktion 19/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C64", "zeile": 64, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D64", "zeile": 64, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E64", "zeile": 64, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F64", "zeile": 64, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G64", "zeile": 64, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A65", "zeile": 65, "spalte": "A", "wert": "SD-NA2/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B65", "zeile": 65, "spalte": "B", "wert": "Nachfassaktion 02/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C65", "zeile": 65, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D65", "zeile": 65, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E65", "zeile": 65, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F65", "zeile": 65, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G65", "zeile": 65, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A66", "zeile": 66, "spalte": "A", "wert": "SD-NA3/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B66", "zeile": 66, "spalte": "B", "wert": "Nachfassaktion 03/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C66", "zeile": 66, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D66", "zeile": 66, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E66", "zeile": 66, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F66", "zeile": 66, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G66", "zeile": 66, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A67", "zeile": 67, "spalte": "A", "wert": "SD-NA4/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B67", "zeile": 67, "spalte": "B", "wert": "Nachfassaktion 04/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C67", "zeile": 67, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D67", "zeile": 67, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E67", "zeile": 67, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F67", "zeile": 67, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G67", "zeile": 67, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A68", "zeile": 68, "spalte": "A", "wert": "SD-NA5/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B68", "zeile": 68, "spalte": "B", "wert": "Nachfassaktion  05/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C68", "zeile": 68, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D68", "zeile": 68, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E68", "zeile": 68, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F68", "zeile": 68, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G68", "zeile": 68, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A69", "zeile": 69, "spalte": "A", "wert": "SD-NA6/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B69", "zeile": 69, "spalte": "B", "wert": "Nachfass-Aktion 06/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C69", "zeile": 69, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D69", "zeile": 69, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E69", "zeile": 69, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F69", "zeile": 69, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G69", "zeile": 69, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A70", "zeile": 70, "spalte": "A", "wert": "SD-NA7/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B70", "zeile": 70, "spalte": "B", "wert": "Nachfassaktion 07/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C70", "zeile": 70, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D70", "zeile": 70, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E70", "zeile": 70, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F70", "zeile": 70, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G70", "zeile": 70, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A71", "zeile": 71, "spalte": "A", "wert": "SD-NA8/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B71", "zeile": 71, "spalte": "B", "wert": "Nachfassaktion 08/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C71", "zeile": 71, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D71", "zeile": 71, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E71", "zeile": 71, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F71", "zeile": 71, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G71", "zeile": 71, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A72", "zeile": 72, "spalte": "A", "wert": "SD-NA9/18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B72", "zeile": 72, "spalte": "B", "wert": "SD-Nachfassaktion 09/2018", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C72", "zeile": 72, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D72", "zeile": 72, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E72", "zeile": 72, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F72", "zeile": 72, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G72", "zeile": 72, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A73", "zeile": 73, "spalte": "A", "wert": "SD-NACH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B73", "zeile": 73, "spalte": "B", "wert": "Nachfass-Aktion 2016", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C73", "zeile": 73, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D73", "zeile": 73, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E73", "zeile": 73, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F73", "zeile": 73, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G73", "zeile": 73, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A74", "zeile": 74, "spalte": "A", "wert": "SD-NACH1", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B74", "zeile": 74, "spalte": "B", "wert": "Nachfass-Aktion 01/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C74", "zeile": 74, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D74", "zeile": 74, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E74", "zeile": 74, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F74", "zeile": 74, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G74", "zeile": 74, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A75", "zeile": 75, "spalte": "A", "wert": "SD-NACH10", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B75", "zeile": 75, "spalte": "B", "wert": "Nachfass-Aktion 10/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C75", "zeile": 75, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D75", "zeile": 75, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E75", "zeile": 75, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F75", "zeile": 75, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G75", "zeile": 75, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A76", "zeile": 76, "spalte": "A", "wert": "SD-NACH11", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B76", "zeile": 76, "spalte": "B", "wert": "Nachfass-Aktion 11/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C76", "zeile": 76, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D76", "zeile": 76, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E76", "zeile": 76, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F76", "zeile": 76, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G76", "zeile": 76, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A77", "zeile": 77, "spalte": "A", "wert": "SD-NACH12", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B77", "zeile": 77, "spalte": "B", "wert": "Nachfass-Aktion 12/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C77", "zeile": 77, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D77", "zeile": 77, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E77", "zeile": 77, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F77", "zeile": 77, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G77", "zeile": 77, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A78", "zeile": 78, "spalte": "A", "wert": "SD-NACH13", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B78", "zeile": 78, "spalte": "B", "wert": "Nachfass-Aktion 13/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C78", "zeile": 78, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D78", "zeile": 78, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E78", "zeile": 78, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F78", "zeile": 78, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G78", "zeile": 78, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A79", "zeile": 79, "spalte": "A", "wert": "SD-NACH14", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B79", "zeile": 79, "spalte": "B", "wert": "Nachfass-Aktion 14/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C79", "zeile": 79, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D79", "zeile": 79, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E79", "zeile": 79, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F79", "zeile": 79, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G79", "zeile": 79, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A80", "zeile": 80, "spalte": "A", "wert": "SD-NACH15", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B80", "zeile": 80, "spalte": "B", "wert": "Nachfass-Aktion 15/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C80", "zeile": 80, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D80", "zeile": 80, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E80", "zeile": 80, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F80", "zeile": 80, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G80", "zeile": 80, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A81", "zeile": 81, "spalte": "A", "wert": "SD-NACH16", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B81", "zeile": 81, "spalte": "B", "wert": "Nachfass-Aktion 16/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C81", "zeile": 81, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D81", "zeile": 81, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E81", "zeile": 81, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F81", "zeile": 81, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G81", "zeile": 81, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A82", "zeile": 82, "spalte": "A", "wert": "SD-NACH17", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B82", "zeile": 82, "spalte": "B", "wert": "Nachfass-Aktion 17/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C82", "zeile": 82, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D82", "zeile": 82, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E82", "zeile": 82, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F82", "zeile": 82, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G82", "zeile": 82, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A83", "zeile": 83, "spalte": "A", "wert": "SD-NACH18", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B83", "zeile": 83, "spalte": "B", "wert": "Nachfass-Aktion 18/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C83", "zeile": 83, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D83", "zeile": 83, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E83", "zeile": 83, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F83", "zeile": 83, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G83", "zeile": 83, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A84", "zeile": 84, "spalte": "A", "wert": "SD-NACH19", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B84", "zeile": 84, "spalte": "B", "wert": "Nachfassaktion 19/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C84", "zeile": 84, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D84", "zeile": 84, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E84", "zeile": 84, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F84", "zeile": 84, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G84", "zeile": 84, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A85", "zeile": 85, "spalte": "A", "wert": "SD-NACH2", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B85", "zeile": 85, "spalte": "B", "wert": "Nachfass-Aktion 02/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C85", "zeile": 85, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D85", "zeile": 85, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E85", "zeile": 85, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F85", "zeile": 85, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G85", "zeile": 85, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A86", "zeile": 86, "spalte": "A", "wert": "SD-NACH20", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B86", "zeile": 86, "spalte": "B", "wert": "Nachfass-Aktion 20/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C86", "zeile": 86, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D86", "zeile": 86, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E86", "zeile": 86, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F86", "zeile": 86, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G86", "zeile": 86, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A87", "zeile": 87, "spalte": "A", "wert": "SD-NACH21", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B87", "zeile": 87, "spalte": "B", "wert": "Nachfass-Aktion 21/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C87", "zeile": 87, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D87", "zeile": 87, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E87", "zeile": 87, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F87", "zeile": 87, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G87", "zeile": 87, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A88", "zeile": 88, "spalte": "A", "wert": "SD-NACH22", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B88", "zeile": 88, "spalte": "B", "wert": "Nachfass Aktion 22/17", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C88", "zeile": 88, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D88", "zeile": 88, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E88", "zeile": 88, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F88", "zeile": 88, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G88", "zeile": 88, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A89", "zeile": 89, "spalte": "A", "wert": "SD-NACH23", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B89", "zeile": 89, "spalte": "B", "wert": "Nachfassaktion 23/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C89", "zeile": 89, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D89", "zeile": 89, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E89", "zeile": 89, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F89", "zeile": 89, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G89", "zeile": 89, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A90", "zeile": 90, "spalte": "A", "wert": "SD-NACH25", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B90", "zeile": 90, "spalte": "B", "wert": "Nachfass-Aktion 25/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C90", "zeile": 90, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D90", "zeile": 90, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E90", "zeile": 90, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F90", "zeile": 90, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G90", "zeile": 90, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A91", "zeile": 91, "spalte": "A", "wert": "SD-NACH-26", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B91", "zeile": 91, "spalte": "B", "wert": "Nachfassaktion 26/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C91", "zeile": 91, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D91", "zeile": 91, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E91", "zeile": 91, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F91", "zeile": 91, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G91", "zeile": 91, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A92", "zeile": 92, "spalte": "A", "wert": "SD-NACH27", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B92", "zeile": 92, "spalte": "B", "wert": "Nachfass-Aktion 27/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C92", "zeile": 92, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D92", "zeile": 92, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E92", "zeile": 92, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F92", "zeile": 92, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G92", "zeile": 92, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A93", "zeile": 93, "spalte": "A", "wert": "SD-NACH28", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B93", "zeile": 93, "spalte": "B", "wert": "Nachfassaktion 24/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C93", "zeile": 93, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D93", "zeile": 93, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E93", "zeile": 93, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F93", "zeile": 93, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G93", "zeile": 93, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A94", "zeile": 94, "spalte": "A", "wert": "SD-NACH3", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B94", "zeile": 94, "spalte": "B", "wert": "Nachfass-Aktion 03/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C94", "zeile": 94, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D94", "zeile": 94, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E94", "zeile": 94, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F94", "zeile": 94, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G94", "zeile": 94, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A95", "zeile": 95, "spalte": "A", "wert": "SD-NACH4", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B95", "zeile": 95, "spalte": "B", "wert": "Nachfass-Aktion 04/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C95", "zeile": 95, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D95", "zeile": 95, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E95", "zeile": 95, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F95", "zeile": 95, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G95", "zeile": 95, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A96", "zeile": 96, "spalte": "A", "wert": "SD-NACH5", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B96", "zeile": 96, "spalte": "B", "wert": "Nachfass-Aktion 05/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C96", "zeile": 96, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D96", "zeile": 96, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E96", "zeile": 96, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F96", "zeile": 96, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G96", "zeile": 96, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A97", "zeile": 97, "spalte": "A", "wert": "SD-NACH6", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B97", "zeile": 97, "spalte": "B", "wert": "Nachfass-Aktion 06/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C97", "zeile": 97, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D97", "zeile": 97, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E97", "zeile": 97, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F97", "zeile": 97, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G97", "zeile": 97, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A98", "zeile": 98, "spalte": "A", "wert": "SD-NACH7", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B98", "zeile": 98, "spalte": "B", "wert": "Nachfass-Aktion 07/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C98", "zeile": 98, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D98", "zeile": 98, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E98", "zeile": 98, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F98", "zeile": 98, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G98", "zeile": 98, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A99", "zeile": 99, "spalte": "A", "wert": "SD-NACH8", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B99", "zeile": 99, "spalte": "B", "wert": "Nachfass-Aktion 08/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C99", "zeile": 99, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D99", "zeile": 99, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E99", "zeile": 99, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F99", "zeile": 99, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G99", "zeile": 99, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A100", "zeile": 100, "spalte": "A", "wert": "SD-NACH9", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B100", "zeile": 100, "spalte": "B", "wert": "Nachfass-Aktion 09/2017", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C100", "zeile": 100, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D100", "zeile": 100, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E100", "zeile": 100, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F100", "zeile": 100, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G100", "zeile": 100, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A101", "zeile": 101, "spalte": "A", "wert": "SK", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B101", "zeile": 101, "spalte": "B", "wert": "Selfkit", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C101", "zeile": 101, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D101", "zeile": 101, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E101", "zeile": 101, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F101", "zeile": 101, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G101", "zeile": 101, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A102", "zeile": 102, "spalte": "A", "wert": "STANDORT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B102", "zeile": 102, "spalte": "B", "wert": "Neuer Standort", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C102", "zeile": 102, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D102", "zeile": 102, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E102", "zeile": 102, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F102", "zeile": 102, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G102", "zeile": 102, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A103", "zeile": 103, "spalte": "A", "wert": "STEUER", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B103", "zeile": 103, "spalte": "B", "wert": "MwSt-Rückzahlung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C103", "zeile": 103, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D103", "zeile": 103, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E103", "zeile": 103, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F103", "zeile": 103, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G103", "zeile": 103, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A104", "zeile": 104, "spalte": "A", "wert": "STORNO", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B104", "zeile": 104, "spalte": "B", "wert": "Stornierung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C104", "zeile": 104, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D104", "zeile": 104, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E104", "zeile": 104, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F104", "zeile": 104, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G104", "zeile": 104, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A105", "zeile": 105, "spalte": "A", "wert": "STREIK", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B105", "zeile": 105, "spalte": "B", "wert": "Poststreik", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C105", "zeile": 105, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D105", "zeile": 105, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E105", "zeile": 105, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F105", "zeile": 105, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G105", "zeile": 105, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A106", "zeile": 106, "spalte": "A", "wert": "SVETFALSCH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B106", "zeile": 106, "spalte": "B", "wert": "Ersatzteile wurden berechnet", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C106", "zeile": 106, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D106", "zeile": 106, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E106", "zeile": 106, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F106", "zeile": 106, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G106", "zeile": 106, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A107", "zeile": 107, "spalte": "A", "wert": "TECH.AT", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B107", "zeile": 107, "spalte": "B", "wert": "allgemeiner technischer Austausch", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C107", "zeile": 107, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D107", "zeile": 107, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E107", "zeile": 107, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F107", "zeile": 107, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G107", "zeile": 107, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A108", "zeile": 108, "spalte": "A", "wert": "UMSCHREIBU", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B108", "zeile": 108, "spalte": "B", "wert": "Vertragsumschreibung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C108", "zeile": 108, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D108", "zeile": 108, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E108", "zeile": 108, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F108", "zeile": 108, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G108", "zeile": 108, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A109", "zeile": 109, "spalte": "A", "wert": "UMTAUSCH", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C109", "zeile": 109, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D109", "zeile": 109, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E109", "zeile": 109, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F109", "zeile": 109, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G109", "zeile": 109, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A110", "zeile": 110, "spalte": "A", "wert": "UNVOLLSTÄN", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B110", "zeile": 110, "spalte": "B", "wert": "Lieferung unvollständig", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C110", "zeile": 110, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D110", "zeile": 110, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E110", "zeile": 110, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F110", "zeile": 110, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G110", "zeile": 110, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A111", "zeile": 111, "spalte": "A", "wert": "VKC", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B111", "zeile": 111, "spalte": "B", "wert": "Verkaufschance", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C111", "zeile": 111, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D111", "zeile": 111, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E111", "zeile": 111, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F111", "zeile": 111, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G111", "zeile": 111, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A112", "zeile": 112, "spalte": "A", "wert": "VORAUS", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B112", "zeile": 112, "spalte": "B", "wert": "Vorauszahlung", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C112", "zeile": 112, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D112", "zeile": 112, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E112", "zeile": 112, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F112", "zeile": 112, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G112", "zeile": 112, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A113", "zeile": 113, "spalte": "A", "wert": "WGS", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B113", "zeile": 113, "spalte": "B", "wert": "Warengutschein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C113", "zeile": 113, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D113", "zeile": 113, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E113", "zeile": 113, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F113", "zeile": 113, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G113", "zeile": 113, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A114", "zeile": 114, "spalte": "A", "wert": "WIDERRUF", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B114", "zeile": 114, "spalte": "B", "wert": "Widerruf innerhalb 14 Tage", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C114", "zeile": 114, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D114", "zeile": 114, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E114", "zeile": 114, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F114", "zeile": 114, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G114", "zeile": 114, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}
+{"zelle": "A115", "zeile": 115, "spalte": "A", "wert": "ZAHLUNG", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "B115", "zeile": 115, "spalte": "B", "wert": "Zahlung nicht abgeschlossen", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "C115", "zeile": 115, "spalte": "C", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "D115", "zeile": 115, "spalte": "D", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "E115", "zeile": 115, "spalte": "E", "wert": "nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "F115", "zeile": 115, "spalte": "F", "wert": "Nein", "typ": "text", "fuellung": "#F2F2F2"}
+{"zelle": "G115", "zeile": 115, "spalte": "G", "wert": "Löschen", "typ": "text", "fuellung": "#FFFF00"}

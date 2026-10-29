@@ -1,0 +1,20 @@
+# Profil für Blatt "Hauptreklamationsgründe" (Excel_zur_Bereinigung.xlsx)
+# Erstellt in Einheit P1-PROFIL-L6535abb7 auf Basis von work/extrakt/9b0cadea88-1.vorschau.md
+id: L6535abb7
+typ: liste
+beschreibung: >
+  Ein Code je Zeile. Spalten C–F geben je Fachbereich an, ob der Code genutzt wird (ja/nein).
+  Spalte G enthält die explizite Entscheidung Behalten/Löschen. Gelbe Füllung in G
+  markiert die Löschen-Zeilen zusätzlich (redundant zum Text, daher nicht als Statusquelle).
+kopfzeile: 1
+datenzeilen: {von: 2}
+spalten:
+  code: A
+  beschreibung: B
+  bewertung: [G]
+  nutzung: {C: "Service", D: "Sol-Center", E: "Logistics", F: "Auftrag/Vertrag"}
+status_regeln:
+  - {wert: "Behalten", status: behalten}
+  - {wert: "Löschen", status: verwerfen}
+farben: {}
+ignorieren: []
